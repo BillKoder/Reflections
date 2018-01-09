@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you first initialize a repository, git adds a .git file to you directory,I'm guessing this connects the directory to git or gives it a file so git understands its a repository.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different from the directory because it is set to be commited to the repository while the directory is just on your computer. It is also not like the repository because it hasn't been commited yet so any changes wont be saved to git. The value this offers is that if you only change one file from the whole repository you don't have to resave every file, the system can just copy and paste all the unedited files from the last commit. Also it gives you a chance to change your mind incase you realize the file shouldn't be commited.
+
+
