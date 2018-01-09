@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By seeing only the lines with differences between the two version, I was able to easily find the difference since there was less to look through.
+
+
+How could having easy access to the entire history of a file make you more efficeint programmer in the long term?
+
+If I was able to look through the changes I've made to a file I could see how it has changed over time and easily correct any mistakes that were made.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having version automatically saved, like Google Docs does?
+
+Being able to choose when to save helps programmers verify that what is being saved is what they want to save. But this could also be a problem because every programmer is different and a programmer could make too many changes to a version or make too  many versions. It is also then on the programmer to make sure the changes are saved, if not saved, changes could be lost.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file sepatately?
+
+Git saves all file with each commit to follow how each change effects the program as a whole, ever if some of the files weren't changed. This however takes up a lot more space then just saving the files that were changed so some systems just save what has been changed.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows the commits or versions of the programs that have been saved. You can look through these commits comments to see what the author changed. Then you can use git diff on two of the versions to see exactly how they changed line by line.
+
+
+How might using version control maky you more confident to make changes that could break something?
+
+By using version control there is a garentee that there will be another older version of the code. This means that any changes that happen to the could can be undone or fixed. This can make a programmer very confindent to make changes that could break something because it could be fixed.
+
+
+now that you have your workspace set up, what do you want to try using Git for?
+
+I want to make a programm to show launchCode that will get me a job. A program that will impress the people looking at it.
