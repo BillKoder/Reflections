@@ -8,3 +8,8 @@ How is the staging area different from the working directory and the repository?
 The staging area is different from the directory because it is set to be commited to the repository while the directory is just on your computer. It is also not like the repository because it hasn't been commited yet so any changes wont be saved to git. The value this offers is that if you only change one file from the whole repository you don't have to resave every file, the system can just copy and paste all the unedited files from the last commit. Also it gives you a chance to change your mind incase you realize the file shouldn't be commited.
 
 
+How can you use the staging area to make sure you have one commmit per logical change?
+
+Once you have your changed files in the staging area you can you git diff and git diff --staged to see what is different between the version in the directory, staging area, and respoitory. Once you are looking at these diffences you can verity that these changes are all part of one logical change.
+
+
