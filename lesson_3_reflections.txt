@@ -23,3 +23,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Without using Git or GitHub you would either have to find another version contol system that utilizes collaboration or just have each person have a copy of the code, edit/add to it, bring it all back together and go over everything that was changed, dicide if the change is work keeping and make sure that all the changes will work together in the final code.
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a seperate branch when you are making any change, this way once the change is ready you would just need to merge it in with the master. The benefits to this approach is you don't have to worry about brakeing the master. The disadvantage to this is if the master is updated you might have to go back and change your code to be able to merge it with the current master.
+
+
