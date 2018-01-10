@@ -23,3 +23,8 @@ How do the diagrams help you visuazlize the branch structure?
 The diagrams show how each branch and commit are connected to each other this can explain why certain commits aren't showing up on the log, why there is a missing feature in a commit, and how to get back to a commit.
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that it combines the two branches into one so that all the commits are accessable under one branch and orders them by time commited. We represent it in the diagram the way we do because it is an easy was to visually understand what is going on and how it affects the branch.
+
+
