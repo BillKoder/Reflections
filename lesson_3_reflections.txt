@@ -1,3 +1,25 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 You would want to use a remote repository when you are using another computer or when there is a team of people working on the same project.
+
+
+Why might you want to always pull changes munually rather than having Git automatically stay up-to-date with your remote repsoitory?
+
+You would want to always pull changes manually because someone else could have made changes that you don't want added to your local repository. You could also be working on an older version of the program and not want the newest commits.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a copy of another persons repository that you add to your profile to work on. This has the added feature of showing who you got the program from so they could get credit for any work done on their project or could answer any questions a person could have. a clone is a copy of a repository that is taken form GitHub and added to your local computer. A branch is a compile of code that seperates from the 'master' code so that it can use previous writen code but doesn't affect any future 'master' code. Branches can be utilized on just local machines while forks and clones are used by GitHub. Branches can also be combined at a later date.
+
+
+What is the benefit of having a copy of the last known state of the remote locally?
+
+If you have a copy of the last known state of the remote locally you could see what changes you made since you last pushed your repository. Also if you are collaberating with another person it helps GitHub see how the two repositories are connected and how they can be combined.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without using Git or GitHub you would either have to find another version contol system that utilizes collaboration or just have each person have a copy of the code, edit/add to it, bring it all back together and go over everything that was changed, dicide if the change is work keeping and make sure that all the changes will work together in the final code.
+
+
